@@ -6,7 +6,7 @@
 <br>
 
 ## Project live link
-[Project-3](# "project03")
+[https://my-project-03.netlify.app/](https://my-project-03.netlify.app/ "project03")
 
 <hr>
 
